@@ -1,0 +1,8 @@
+name: ThrowableCreepers
+version: '${project.version}'
+main: com.unclecole.throwablecreepers.ThrowableCreepers
+api-version: 1.16
+prefix: ThrowableCreepers
+authors: [ Cole ]
+commands:
+  creeper:
